@@ -10,7 +10,4 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-agents:
-    - name: issue-ping
-      source: harness/issue-ping.yaml
 mint_url: https://bt-9f892f82-bt-mint.fullsend-ai.workers.dev
